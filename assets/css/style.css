@@ -1,0 +1,23 @@
+body {
+    background-image: url(../images/80sbackground.jpg);
+}
+
+#wrapper {
+    width: 65%;
+    height: 750px;
+  
+    /* Positioning */
+    margin-top: 20px;
+    margin-left: 243px;
+    
+  
+    /* Box-model */
+    overflow: auto;
+  
+    /* Typography */
+    text-align: center;
+  
+    /* Visual */
+    background: pink;
+  }
+  
